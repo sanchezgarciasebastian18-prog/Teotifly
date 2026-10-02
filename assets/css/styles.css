@@ -69,9 +69,9 @@ grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 gap: 20px;
 }
 .tarjeta {
-background-color: white;
+background-color: #800000;
 border: 1px solid #ddd;
-border-radius: 8px;
+border-radius: 16px;
 padding: 20px;
 text-align: center;
 }
